@@ -1,4 +1,4 @@
-# Olá! Sou Lucas Albuquerque
+# Olá, sou Lucas Albuquerque!
 
 <div align="center">
   <a href="[https://github.com/Lucasaalbuquerque](https://github.com/Lucasaalbuquerque)">
