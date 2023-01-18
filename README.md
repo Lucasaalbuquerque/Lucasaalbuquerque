@@ -1,6 +1,5 @@
 # Olá, sou Lucas Albuquerque!
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucasaalbuquerque&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Lucasaalbuquerque's github stats"/></a> 
 
 ##
   ### Contato:
